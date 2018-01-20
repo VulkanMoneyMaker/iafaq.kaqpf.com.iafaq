@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Слоты</string>
+    <string name="facebook_app_id">349126315497641</string>
+
+    <string name="title_activity__player">Activity_Player</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
